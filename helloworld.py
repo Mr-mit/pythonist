@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""invoke helloworld implementation."""
+"""invoke helloworld."""
 
 import sys
 import helloworld.main
